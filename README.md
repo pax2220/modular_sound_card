@@ -3,6 +3,7 @@
 
 
 The purpose of this project is to realize a very easy to use, transportable and open hardware audio player and sound card.
+
 The idea is to have a very compact piece of hardware being the player (from an analog or digital input) sending I2S on 16 outputs connected to DACs wich will then send the audio to speakers.
 The particularity of this device will be the treatment of the sound totally controlled softwarly.
 
